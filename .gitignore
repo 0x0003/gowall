@@ -22,4 +22,7 @@ gowall
 go.work
 go.work.sum
 
+# Nix build artifacts
+result
+
 dist/
